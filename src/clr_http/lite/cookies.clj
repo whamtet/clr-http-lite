@@ -4,6 +4,7 @@
    [clr-http.lite.util :as util]
    )
   (:import
+   System.Uri
    System.Net.Cookie
    System.Net.CookieCollection
    ))

@@ -5,6 +5,7 @@
             [clr-http.lite.core :as core]
             [clr-http.lite.util :as util])
   (:import
+   System.Uri
    System.Text.Encoding
    System.Text.UTF8Encoding
    )
